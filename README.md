@@ -1,6 +1,14 @@
 # Blockchain Learning Path
 
-- [ ] Cryptography
+-  🔐Cryptography🔐
+
+A fundamental part of the blockchain is cryptography since it is the pillar that maintains pseudo anonymity, authentication and security. So you have to be comfortable with this topic. Perhaps for now you do not need to delve much into this subject but you will need to know the basics of cryptography.
+
+  1. [Watch Public key cryptography](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+  2. [Basic Cryptography Tutorial](https://www.tutorialspoint.com/cryptography/index.htm)
+
+  [**Extra**: Read Real World Cryptography Manning Book](https://www.manning.com/books/real-world-cryptography)
+  
 - [ ] Blockchain
 - [ ] Bitcoin
 - [ ] Hyperledger
